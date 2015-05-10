@@ -14,3 +14,6 @@ https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/
 
 http://babeljs.io/docs/learn-es6/#iterators-for-of
 
+
+## Generators
+https://hacks.mozilla.org/2015/05/es6-in-depth-generators/
