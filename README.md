@@ -19,3 +19,8 @@ http://babeljs.io/docs/learn-es6/#iterators-for-of
 https://hacks.mozilla.org/2015/05/es6-in-depth-generators/
 
 http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators    
+
+
+## Template strings
+https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/
+
