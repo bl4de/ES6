@@ -24,3 +24,6 @@ http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators
 ## Template strings
 https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/
 
+## Rest and default function parameters
+https://hacks.mozilla.org/2015/05/es6-in-depth-rest-parameters-and-defaults/
+
