@@ -38,7 +38,7 @@ function defaultParameters(a, b = 1, c, d = "aaa", e = (a) ? a + 100 : 0) {
 //defaultParameters(10, 20, 30);
 
 
-// function as default parameters
+// generators and functions as default parameters
 var _n,
     _v = 12;
 
@@ -66,18 +66,15 @@ function defaultParametersWithFunctions(b = nextVal(), c = 20) {
     console.log(c);
     console.log('=====');
 }
-defaultParametersWithFunctions();
 
+// works as expected :)
+defaultParametersWithFunctions();
 defaultParametersWithFunctions();
 defaultParametersWithFunctions();
 
 _n = getParam(1);
 
-//console.log(_n.next().value);
-
-//defaultParametersWithFunctions();
-//defaultParametersWithFunctions();
-//defaultParametersWithFunctions();
-//defaultParametersWithFunctions();
-//defaultParametersWithFunctions(33);
-//defaultParametersWithFunctions(33, 55);
+// first call works well, in every next call b is undefined :/
+defaultParametersWithFunctions();
+defaultParametersWithFunctions();
+defaultParametersWithFunctions();
