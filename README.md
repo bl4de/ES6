@@ -27,3 +27,5 @@ https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/
 ## Rest and default function parameters
 https://hacks.mozilla.org/2015/05/es6-in-depth-rest-parameters-and-defaults/
 
+## Destructuring
+https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/
