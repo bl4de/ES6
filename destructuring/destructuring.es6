@@ -67,3 +67,12 @@ console.log(model); // should be 'RS5'
 // default values
 var [def = 10] = [];
 console.log(def); // should be 10
+
+// returning multiple values from fn()
+
+function fn() {
+    return [1, 2, 3];
+}
+
+var [x,y,z] = fn();
+console.log(y); // should be 2
