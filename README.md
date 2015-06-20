@@ -29,3 +29,6 @@ https://hacks.mozilla.org/2015/05/es6-in-depth-rest-parameters-and-defaults/
 
 ## Destructuring
 https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/
+
+## Arrow functions
+https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/
