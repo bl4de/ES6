@@ -6,6 +6,17 @@ https://people.mozilla.org/~jorendorff/es6-draft.html
 
 http://babeljs.io/docs/learn-es6/
 
+## Online books
+
+### Exploring ES6
+
+Upgrade to the next version of JavaScript
+Axel Rauschmayer’s avatarAxel Rauschmayer
+
+https://leanpub.com/exploring-es6/read
+
+
+
 ## Series
 https://hacks.mozilla.org/category/es6-in-depth/
 
