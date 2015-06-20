@@ -40,3 +40,30 @@ var [a,b,c,d,e] = gen();
 
 console.log(b); // should be 20
 console.log(d); // should be 40
+
+// destructuring objects
+var obj = {
+    manufacturer: 'Audi',
+    model: 'RS5',
+    type: 'Coupe',
+    power: '450 HP'
+};
+
+var {manufacturer,model:m,type:t} = obj;
+console.log(manufacturer); // should be 'Audi'
+console.log(t); // should be 'Coupe'
+
+// shortcut
+var {manufacturer,model,type,power} = {
+    manufacturer: 'Audi',
+    model: 'RS5',
+    type: 'Coupe',
+    power: '450 HP'
+};
+
+console.log(model); // should be 'RS5'
+
+
+// default values
+var [def = 10] = [];
+console.log(def); // should be 10
