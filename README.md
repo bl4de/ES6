@@ -6,7 +6,7 @@ https://people.mozilla.org/~jorendorff/es6-draft.html
 
 http://babeljs.io/docs/learn-es6/
 
-## Online books
+# Online books
 
 ### Exploring ES6
 
@@ -17,8 +17,10 @@ https://leanpub.com/exploring-es6/read
 
 
 
-## Series
+# Series
 https://hacks.mozilla.org/category/es6-in-depth/
+
+# Topics
 
 ## Iterators, for-of loop
 https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/
@@ -43,3 +45,9 @@ https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/
 
 ## Arrow functions
 https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/fig1.png
+
+## Symbols
+https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/
+
