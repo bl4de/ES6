@@ -17,3 +17,5 @@ var a = gen(10);
 console.log(a.next());
 console.log(a.next());
 console.log(a.next());
+
+//----------------------
