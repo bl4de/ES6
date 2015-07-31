@@ -57,3 +57,6 @@ https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/fig1.png
 ## Symbols
 https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/
 
+## Proxies
+https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/
+
