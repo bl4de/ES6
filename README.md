@@ -60,3 +60,6 @@ https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/
 ## Proxies
 https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/
 
+## Classes
+https://hacks.mozilla.org/2015/07/es6-in-depth-classes/
+
