@@ -22,6 +22,10 @@ https://hacks.mozilla.org/category/es6-in-depth/
 
 # Topics
 
+## Let, const
+https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
+
+
 ## Iterators, for-of loop
 https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/
 
