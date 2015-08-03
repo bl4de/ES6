@@ -1,31 +1,24 @@
-"use strict";
+//var obj = new Proxy({}, {
+//    get: function (target, key, receiver) {
+//        console.log(`getting ${key}!`);
+//        return Reflect.get(target, key, receiver);
+//    },
+//    set: function (target, key, value, receiver) {
+//        console.log(`setting ${key}!`);
+//        return Reflect.set(target, key, value, receiver);
+//    }
+//});
+//
 
-var a = [1, 2, 3, 4, 5];
+var target = {},
+    handler = {
+        set: function (target, key, value, receiver) {
+            target[key] = value + " elo! ";
+        }
+    };
 
-// for ... of Array
-for (let i of a) {
-	console.log(i);
-}
+var proxy = new Proxy(target, handler);
 
-var s = "Audi RS5 B8 MY 2015";
+proxy.something = "something";
 
-// for ... of String
-for (let i of s) {
-	if (i === "B") {
-		break;
-	}
-	console.log(i);
-}
-
-var o = {
-	"manufacturer": "Audi",
-	"model": "RS5",
-	"model year": "2015",
-	"engine": "V8 FSI 4.2",
-	"power": "450 KM"
-};
-
-// for .. of Object
-for (let i of Object.keys(o)) {
-	console.log(i + " : " + o[i]);
-}
+console.log("target.something = " + target.something);
