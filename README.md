@@ -41,7 +41,9 @@ https://hacks.mozilla.org/2015/05/es6-in-depth-generators/
 
 https://hacks.mozilla.org/2015/07/es6-in-depth-generators-continued/
 
-http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators    
+http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators   
+
+https://github.com/jesstelford/esnext-generation 
 
 
 ## Template strings
