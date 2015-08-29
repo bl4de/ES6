@@ -49,11 +49,17 @@ https://github.com/jesstelford/esnext-generation
 ## Template strings
 https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/
 
+http://ponyfoo.com/articles/es6-template-strings-in-depth
+
+
 ## Rest and default function parameters
 https://hacks.mozilla.org/2015/05/es6-in-depth-rest-parameters-and-defaults/
 
 ## Destructuring
 https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/
+
+http://ponyfoo.com/articles/es6-destructuring-in-depth
+
 
 ## Arrow functions
 https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/
